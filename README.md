@@ -1,1 +1,0 @@
-# self-pruning-neural-network-cifar10
